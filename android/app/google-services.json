@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "399154778350",
+    "project_id": "pushnotification-cd816",
+    "storage_bucket": "pushnotification-cd816.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399154778350:android:8d5ed7113e82a780a3e3ff",
+        "android_client_info": {
+          "package_name": "com.awedding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399154778350-6asd0naaal466jkj3cvrc37gke27b251.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awedding",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "399154778350-j71q0vduv48loekq0lu4l3f622tcp2ft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA00oKHF0-A3WRRIDJtkFjgSQWIxz4K0dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399154778350-j71q0vduv48loekq0lu4l3f622tcp2ft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
